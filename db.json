@@ -9,6 +9,286 @@
       "Classification": "Announcement",
       "SubClassification": "Community Event",
       "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000122",
+      "DateReceived": "09/14/2023",
+      "EmailSubject": "Request for Information",
+      "SenderEmail": "info.requester@example.com",
+      "AssignedTo": "Charlie Miller",
+      "Classification": "Inquiry",
+      "SubClassification": "Information Request",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000123",
+      "DateReceived": "09/15/2023",
+      "EmailSubject": "Urgent Task",
+      "SenderEmail": "urgent.tasker@example.com",
+      "AssignedTo": "David Wilson",
+      "Classification": "Task",
+      "SubClassification": "Urgent",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000124",
+      "DateReceived": "09/16/2023",
+      "EmailSubject": "Meeting Minutes",
+      "SenderEmail": "minutes.team@example.com",
+      "AssignedTo": "Grace Davis",
+      "Classification": "Documentation",
+      "SubClassification": "Meeting Minutes",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000125",
+      "DateReceived": "09/17/2023",
+      "EmailSubject": "Job Application",
+      "SenderEmail": "job.applicant@example.com",
+      "AssignedTo": "HR Department",
+      "Classification": "Application",
+      "SubClassification": "Job",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000126",
+      "DateReceived": "09/18/2023",
+      "EmailSubject": "Customer Complaint",
+      "SenderEmail": "customer.support@example.com",
+      "AssignedTo": "Customer Support",
+      "Classification": "Complaint",
+      "SubClassification": "General",
+      "Sentiment": "Negative"
+    },
+    {
+      "URN": "1230000127",
+      "DateReceived": "09/19/2023",
+      "EmailSubject": "Product Inquiry",
+      "SenderEmail": "inquiry.customer@example.com",
+      "AssignedTo": "Sales Team",
+      "Classification": "Inquiry",
+      "SubClassification": "Product",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000128",
+      "DateReceived": "09/20/2023",
+      "EmailSubject": "Project Proposal",
+      "SenderEmail": "proposal.team@example.com",
+      "AssignedTo": "Project Manager",
+      "Classification": "Proposal",
+      "SubClassification": "Project",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000129",
+      "DateReceived": "09/21/2023",
+      "EmailSubject": "Team Meeting",
+      "SenderEmail": "team.meeting@example.com",
+      "AssignedTo": "Team Lead",
+      "Classification": "Meeting",
+      "SubClassification": "General",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000130",
+      "DateReceived": "09/22/2023",
+      "EmailSubject": "New Feature Request",
+      "SenderEmail": "feature.requester@example.com",
+      "AssignedTo": "Development Team",
+      "Classification": "Request",
+      "SubClassification": "Feature",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000131",
+      "DateReceived": "09/23/2023",
+      "EmailSubject": "Technical Support",
+      "SenderEmail": "tech.support@example.com",
+      "AssignedTo": "Support Team",
+      "Classification": "Support",
+      "SubClassification": "Technical",
+      "Sentiment": "Negative"
+    },
+    {
+      "URN": "1230000132",
+      "DateReceived": "09/24/2023",
+      "EmailSubject": "Product Update",
+      "SenderEmail": "product.team@example.com",
+      "AssignedTo": "Product Manager",
+      "Classification": "Update",
+      "SubClassification": "Product",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000133",
+      "DateReceived": "09/25/2023",
+      "EmailSubject": "Survey Response",
+      "SenderEmail": "survey.respondent@example.com",
+      "AssignedTo": "Survey Team",
+      "Classification": "Feedback",
+      "SubClassification": "Survey",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000134",
+      "DateReceived": "09/26/2023",
+      "EmailSubject": "Account Activation",
+      "SenderEmail": "activation.team@example.com",
+      "AssignedTo": "Activation Department",
+      "Classification": "Activation",
+      "SubClassification": "Account",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000135",
+      "DateReceived": "09/27/2023",
+      "EmailSubject": "Billing Inquiry",
+      "SenderEmail": "billing.inquirer@example.com",
+      "AssignedTo": "Billing Department",
+      "Classification": "Inquiry",
+      "SubClassification": "Billing",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000136",
+      "DateReceived": "09/28/2023",
+      "EmailSubject": "Training Request",
+      "SenderEmail": "training.requester@example.com",
+      "AssignedTo": "Training Department",
+      "Classification": "Request",
+      "SubClassification": "Training",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000137",
+      "DateReceived": "09/29/2023",
+      "EmailSubject": "Project Status Update",
+      "SenderEmail": "status.team@example.com",
+      "AssignedTo": "Project Lead",
+      "Classification": "Update",
+      "SubClassification": "Project",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000138",
+      "DateReceived": "09/30/2023",
+      "EmailSubject": "Website Feedback",
+      "SenderEmail": "website.feedback@example.com",
+      "AssignedTo": "Web Team",
+      "Classification": "Feedback",
+      "SubClassification": "Website",
+      "Sentiment": "Negative"
+    },
+    {
+      "URN": "1230000139",
+      "DateReceived": "10/01/2023",
+      "EmailSubject": "Holiday Schedule",
+      "SenderEmail": "holiday.schedule@example.com",
+      "AssignedTo": "HR Department",
+      "Classification": "Announcement",
+      "SubClassification": "Holiday",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000140",
+      "DateReceived": "10/02/2023",
+      "EmailSubject": "Software Bug Report",
+      "SenderEmail": "bug.reporter@example.com",
+      "AssignedTo": "Bug Tracking Team",
+      "Classification": "Bug Report",
+      "SubClassification": "Software",
+      "Sentiment": "Negative"
+    },
+    {
+      "URN": "1230000141",
+      "DateReceived": "10/03/2023",
+      "EmailSubject": "New Partnership Proposal",
+      "SenderEmail": "partnership.team@example.com",
+      "AssignedTo": "Partnership Manager",
+      "Classification": "Proposal",
+      "SubClassification": "Partnership",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000142",
+      "DateReceived": "10/04/2023",
+      "EmailSubject": "Product Recall Notice",
+      "SenderEmail": "product.recall@example.com",
+      "AssignedTo": "Quality Control",
+      "Classification": "Notification",
+      "SubClassification": "Product Recall",
+      "Sentiment": "Negative"
+    },
+    {
+      "URN": "1230000143",
+      "DateReceived": "10/05/2023",
+      "EmailSubject": "Conference Invitation",
+      "SenderEmail": "conference.organizer@example.com",
+      "AssignedTo": "Event Coordinator",
+      "Classification": "Invitation",
+      "SubClassification": "Conference",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000144",
+      "DateReceived": "10/06/2023",
+      "EmailSubject": "Employee Recognition",
+      "SenderEmail": "employee.recognition@example.com",
+      "AssignedTo": "HR Department",
+      "Classification": "Recognition",
+      "SubClassification": "Employee",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000145",
+      "DateReceived": "10/07/2023",
+      "EmailSubject": "Newsletter Subscription",
+      "SenderEmail": "newsletter.subscriber@example.com",
+      "AssignedTo": "Marketing Team",
+      "Classification": "Subscription",
+      "SubClassification": "Newsletter",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000146",
+      "DateReceived": "10/08/2023",
+      "EmailSubject": "Software Enhancement Request",
+      "SenderEmail": "enhancement.request@example.com",
+      "AssignedTo": "Development Team",
+      "Classification": "Request",
+      "SubClassification": "Software Enhancement",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000147",
+      "DateReceived": "10/09/2023",
+      "EmailSubject": "Employee Training Feedback",
+      "SenderEmail": "training.feedback@example.com",
+      "AssignedTo": "Training Department",
+      "Classification": "Feedback",
+      "SubClassification": "Training",
+      "Sentiment": "Positive"
+    },
+    {
+      "URN": "1230000149",
+      "DateReceived": "10/11/2023",
+      "EmailSubject": "Performance Review Reminder",
+      "SenderEmail": "performance.review@example.com",
+      "AssignedTo": "HR Department",
+      "Classification": "Reminder",
+      "SubClassification": "Performance Review",
+      "Sentiment": "Neutral"
+    },
+    {
+      "URN": "1230000150",
+      "DateReceived": "10/12/2023",
+      "EmailSubject": "Team Building Activity",
+      "SenderEmail": "team.building@example.com",
+      "AssignedTo": "Team Lead",
+      "Classification": "Activity",
+      "SubClassification": "Team Building",
+      "Sentiment": "Positive"
     }
   ]
 }
